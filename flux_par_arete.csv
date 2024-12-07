@@ -1,0 +1,531 @@
+Flux,Noeud_depart,Noeud_arrivee
+29,La Défense,Esplanade de La Défense
+41,Esplanade de La Défense,Pont de Neuilly
+39,Pont de Neuilly,Les Sablons
+28,Les Sablons,Porte Maillot
+18,Porte Maillot,Argentine
+23,Esplanade de La Défense,La Défense
+43,Pont de Neuilly,Esplanade de La Défense
+44,Les Sablons,Pont de Neuilly
+40,Porte Maillot,Les Sablons
+29,Argentine,Porte Maillot
+1159,George V,Franklin D. Roosevelt
+17850,Franklin D. Roosevelt,Saint-Philippe du Roule
+18737,Saint-Philippe du Roule,Miromesnil
+20409,Miromesnil,Saint-Lazare
+47740,Saint-Lazare,Madeleine
+8768,Madeleine,Concorde
+1120,Concorde,Tuileries
+40021,Madeleine,Pyramides
+42006,Pyramides,Châtelet
+28289,Châtelet,Hôtel de Ville
+1853,Hôtel de Ville,Saint-Paul
+34293,Châtelet,Gare de Lyon
+2060,Gare de Lyon,Bastille
+34083,Gare de Lyon,Bercy
+21502,Bercy,Dugommier
+21023,Dugommier,Daumesnil
+18400,Daumesnil,Bel-Air
+18206,Bel-Air,Picpus
+18135,Picpus,Nation
+6806,Nation,Porte de Vincennes
+5665,Porte de Vincennes,Saint-Mandé
+4539,Saint-Mandé,Bérault
+3423,Bérault,Château de Vincennes
+2277,Château de Vincennes,Porte Dauphine
+1112,Porte Dauphine,Victor Hugo
+7438,Saint-Lazare,Europe
+6389,Europe,Villiers
+3345,Villiers,Monceau
+2273,Monceau,Courcelles
+1152,Courcelles,Ternes
+610,Villiers,Rome
+11987,Saint-Lazare,Liège
+11024,Liège,Place de Clichy
+6637,Place de Clichy,Blanche
+5580,Blanche,Pigalle
+1143,Pigalle,Anvers
+11478,Madeleine,Opéra
+12744,Opéra,Chaussée d'Antin - La Fayette
+12259,Chaussée d'Antin - La Fayette,Le Peletier
+11798,Le Peletier,Cadet
+11579,Cadet,Poissonnière
+11404,Poissonnière,Gare de l'Est
+6485,Gare de l'Est,Gare du Nord
+5659,Gare du Nord,Stalingrad
+1129,Stalingrad,La Chapelle
+10445,Gare de l'Est,Château-Landon
+9623,Château-Landon,Louis Blanc
+5721,Louis Blanc,Jaurès
+28657,Hôtel de Ville,Rambuteau
+28453,Rambuteau,Arts et Métiers
+27652,Arts et Métiers,République
+9184,République,Goncourt
+8536,Goncourt,Belleville
+9001,Belleville,Colonel Fabien
+4983,Belleville,Couronnes
+12142,République,Parmentier
+11468,Parmentier,Rue Saint-Maur
+11093,Rue Saint-Maur,Père Lachaise
+5544,Père Lachaise,Ménilmontant
+9901,Père Lachaise,Philippe Auguste
+9476,Philippe Auguste,Alexandre Dumas
+9989,Nation,Avron
+4464,Nation,Pont de Levallois - Bécon
+3355,Pont de Levallois - Bécon,Anatole France
+2223,Anatole France,Louise Michel
+1103,Louise Michel,Porte de Champerret
+2178,Villiers,Malesherbes
+1123,Malesherbes,Wagram
+648,Arts et Métiers,Temple
+13339,Père Lachaise,Gambetta
+1149,Gambetta,Porte de Bagnolet
+1097,Gambetta,Gallieni
+10394,Gambetta,Pelleport
+9523,Pelleport,Porte des Lilas
+2414,Porte des Lilas,Porte de Clignancourt
+1191,Porte de Clignancourt,Simplon
+641,Gare de l'Est,Château d'Eau
+1628,République,Strasbourg - Saint-Denis
+2242,Châtelet,Les Halles
+1126,Les Halles,Étienne Marcel
+7606,Châtelet,Cité
+6518,Cité,Saint-Michel
+5485,Saint-Michel,Odéon
+3276,Odéon,Saint-Germain-des-Prés
+2155,Saint-Germain-des-Prés,Saint-Sulpice
+1072,Saint-Sulpice,Saint-Placide
+22419,Bercy,Quai de la Gare
+21448,Quai de la Gare,Chevaleret
+20540,Chevaleret,Nationale
+19551,Nationale,Place d'Italie
+13878,Place d'Italie,Corvisart
+12816,Corvisart,Glacière
+11734,Glacière,Saint-Jacques
+10747,Saint-Jacques,Denfert-Rochereau
+3445,Denfert-Rochereau,Raspail
+1188,Raspail,Vavin
+6438,Denfert-Rochereau,Mouton-Duvernet
+5378,Mouton-Duvernet,Alésia
+4254,Alésia,Porte d'Orléans
+3211,Porte d'Orléans,Mairie de Montrouge
+2147,Mairie de Montrouge,Barbara
+1068,Barbara,Bagneux - Lucie Aubrac
+6710,Jaurès,Laumière
+5643,Laumière,Ourcq
+4574,Ourcq,Porte de Pantin
+3407,Porte de Pantin,Hoche
+2236,Hoche,Église de Pantin
+1146,Église de Pantin,Bobigny - Pantin - Raymond Queneau
+9356,République,Jacques Bonsergent
+6959,République,Oberkampf
+5979,Châtelet,Gare d'Austerlitz
+558,Gare d'Austerlitz,Quai de la Rapée
+1128,Gare d'Austerlitz,Saint-Marcel
+16013,Franklin D. Roosevelt,Alma - Marceau
+15090,Alma - Marceau,Iéna
+14217,Iéna,Trocadéro
+2388,Trocadéro,Boissière
+1185,Boissière,Kléber
+3466,Trocadéro,Passy
+2340,Passy,Bir-Hakeim
+1166,Bir-Hakeim,Dupleix
+22168,Saint-Lazare,Pont Cardinet
+21317,Pont Cardinet,Porte de Clichy
+12995,Porte de Clichy,Mairie de Clichy
+12017,Mairie de Clichy,Gabriel Péri
+10953,Gabriel Péri,Les Agnettes
+9896,Les Agnettes,Les Courtilles
+8860,Les Courtilles,Mairie d'Issy
+7800,Mairie d'Issy,Corentin Celton
+6651,Corentin Celton,Porte de Versailles
+5577,Porte de Versailles,Convention
+4437,Convention,Vaugirard
+3369,Vaugirard,Volontaires
+2216,Volontaires,Pasteur
+1079,Raspail,Edgar Quinet
+2254,Nation,La Courneuve - 8 Mai 1945
+1099,La Courneuve - 8 Mai 1945,Fort d'Aubervilliers
+4540,Stalingrad,Riquet
+3375,Riquet,Crimée
+2227,Crimée,Corentin Cariou
+1140,Corentin Cariou,Porte de la Villette
+1077,Châtelet,Pont Marie
+3364,Gare d'Austerlitz,Jussieu
+1138,Jussieu,Place Monge
+1097,Place d'Italie,Les Gobelins
+4384,Place d'Italie,Tolbiac
+3303,Tolbiac,Maison Blanche
+2180,Maison Blanche,Le Kremlin-Bicêtre
+1129,Le Kremlin-Bicêtre,Villejuif - Léo Lagrange
+6709,Louis Blanc,Mairie d'Ivry
+5576,Mairie d'Ivry,Pierre et Marie Curie
+4572,Pierre et Marie Curie,Porte d'Ivry
+3436,Porte d'Ivry,Porte de Choisy
+2364,Porte de Choisy,Porte d'Italie
+1194,Porte d'Italie,Villejuif - Louis Aragon
+3110,Jaurès,Bolivar
+2087,Bolivar,Buttes Chaumont
+1108,Buttes Chaumont,Botzaris
+5552,Belleville,Pyrénées
+4559,Pyrénées,Jourdain
+3645,Jourdain,Place des Fêtes
+1394,Place des Fêtes,Danube
+6633,Concorde,Invalides
+1131,République,Filles du Calvaire
+1131,Bastille,Chemin Vert
+1084,Daumesnil,Montgallet
+5723,Daumesnil,Michel Bizot
+4608,Michel Bizot,Porte Dorée
+3484,Porte Dorée,Porte de Charenton
+2346,Porte de Charenton,Liberté
+1166,Liberté,Charenton - Écoles
+8625,Trocadéro,Rue de la Pompe
+7916,Rue de la Pompe,La Muette
+7377,La Muette,Ranelagh
+6791,Ranelagh,Jasmin
+6384,Jasmin,Michel-Ange - Auteuil
+6171,Michel-Ange - Auteuil,Michel-Ange - Molitor
+6646,Michel-Ange - Molitor,Exelmans
+5564,Exelmans,Porte de Saint-Cloud
+4499,Porte de Saint-Cloud,Marcel Sembat
+3339,Marcel Sembat,Billancourt
+2245,Billancourt,Pont de Sèvres
+1121,Pont de Sèvres,Pointe du Lac
+1124,Miromesnil,Saint-Augustin
+6371,Oberkampf,Saint-Ambroise
+5698,Saint-Ambroise,Voltaire
+5282,Voltaire,Charonne
+5443,Nation,Rue des Boulets
+12958,Nation,Buzenval
+12051,Buzenval,Maraîchers
+7079,Michel-Ange - Molitor,Porte d'Auteuil
+7344,Porte d'Auteuil,Boulogne - Jean Jaurès
+7740,Boulogne - Jean Jaurès,Boulogne - Pont de Saint-Cloud
+8174,Boulogne - Pont de Saint-Cloud,Mairie de Montreuil
+8691,Mairie de Montreuil,Croix de Chavaux
+9516,Croix de Chavaux,Robespierre
+10364,Robespierre,Porte de Montreuil
+5593,Invalides,Varenne
+4479,Varenne,Saint-François-Xavier
+3349,Saint-François-Xavier,Duroc
+1120,Duroc,Ségur
+1168,Duroc,Vaneau
+1106,Odéon,Mabillon
+1083,Jussieu,Cardinal Lemoine
+3100,Place des Fêtes,Télégraphe
+6706,Porte des Lilas,Mairie des Lilas
+5634,Mairie des Lilas,Mairie d'Aubervilliers
+4482,Mairie d'Aubervilliers,Aimé Césaire
+3375,Aimé Césaire,Front Populaire
+2327,Front Populaire,Porte de la Chapelle
+1145,Porte de la Chapelle,Marx Dormoy
+1111,Pigalle,Abbesses
+2313,Pigalle,Saint-Georges
+1169,Saint-Georges,Notre-Dame-de-Lorette
+1171,Pasteur,Falguière
+4450,Porte de Clichy,Brochant
+3382,Brochant,Saint-Denis - Université
+2231,Saint-Denis - Université,Basilique de Saint-Denis
+1122,Basilique de Saint-Denis,Saint-Denis - Porte de Paris
+4246,Porte de Clichy,Saint-Ouen
+3137,Saint-Ouen,Mairie de Saint-Ouen
+1141,Mairie de Saint-Ouen,Carrefour Pleyel
+1324,Mairie de Saint-Ouen,Garibaldi
+3422,Place de Clichy,La Fourche
+2315,La Fourche,Guy Môquet
+1364,Guy Môquet,Porte de Saint-Ouen
+1133,Bercy,Cour Saint-Émilion
+1104,Franklin D. Roosevelt,George V
+8882,Concorde,Madeleine
+47098,Madeleine,Saint-Lazare
+20316,Saint-Lazare,Miromesnil
+18585,Miromesnil,Saint-Philippe du Roule
+17756,Saint-Philippe du Roule,Franklin D. Roosevelt
+11203,Maraîchers,Porte de Montreuil
+10365,Porte de Montreuil,Robespierre
+9479,Robespierre,Croix de Chavaux
+8599,Croix de Chavaux,Mairie de Montreuil
+8135,Mairie de Montreuil,Boulogne - Pont de Saint-Cloud
+1167,Tuileries,Concorde
+41539,Châtelet,Pyramides
+39415,Pyramides,Madeleine
+1211,Place de Clichy,Rome
+8589,Jacques Bonsergent,Gare de l'Est
+8223,Colonel Fabien,Jaurès
+2077,Pyramides,Opéra
+779,Strasbourg - Saint-Denis,Château d'Eau
+7601,Boulogne - Pont de Saint-Cloud,Boulogne - Jean Jaurès
+7308,Boulogne - Jean Jaurès,Porte d'Auteuil
+27524,Hôtel de Ville,Châtelet
+1345,Saint-Paul,Bastille
+695,Bastille,Quai de la Rapée
+11162,Gare de l'Est,Poissonnière
+5022,Charonne,Rue des Boulets
+1796,Saint-Paul,Hôtel de Ville
+2083,Bastille,Gare de Lyon
+515,Quai de la Rapée,Gare d'Austerlitz
+34541,Gare de Lyon,Châtelet
+1327,Bastille,Saint-Paul
+9487,Avron,Alexandre Dumas
+9291,Alexandre Dumas,Philippe Auguste
+4817,Rue des Boulets,Charonne
+18194,Nation,Picpus
+18289,Picpus,Bel-Air
+18496,Bel-Air,Daumesnil
+20908,Daumesnil,Dugommier
+21450,Dugommier,Bercy
+34251,Bercy,Gare de Lyon
+5069,Charonne,Voltaire
+5501,Voltaire,Saint-Ambroise
+6153,Saint-Ambroise,Oberkampf
+6806,Oberkampf,République
+9699,Philippe Auguste,Père Lachaise
+4757,Ménilmontant,Couronnes
+5269,Couronnes,Belleville
+26968,République,Arts et Métiers
+544,République,Temple
+10441,Père Lachaise,Rue Saint-Maur
+10883,Rue Saint-Maur,Parmentier
+5886,Jaurès,Louis Blanc
+11391,Poissonnière,Cadet
+2343,Porte des Lilas,Télégraphe
+2860,Télégraphe,Place des Fêtes
+565,Danube,Botzaris
+7000,Porte d'Auteuil,Michel-Ange - Molitor
+6178,Michel-Ange - Molitor,Michel-Ange - Auteuil
+6449,Michel-Ange - Auteuil,Jasmin
+6884,Jasmin,Ranelagh
+7472,Ranelagh,La Muette
+8107,La Muette,Rue de la Pompe
+27769,Arts et Métiers,Rambuteau
+6650,Porte de Vincennes,Nation
+5508,Saint-Mandé,Porte de Vincennes
+4417,Bérault,Saint-Mandé
+3295,Château de Vincennes,Bérault
+2242,Porte Dauphine,Château de Vincennes
+1132,Victor Hugo,Porte Dauphine
+1237,Ternes,Courcelles
+2397,Courcelles,Monceau
+3527,Monceau,Villiers
+6610,Villiers,Europe
+7694,Europe,Saint-Lazare
+1178,Rome,Place de Clichy
+400,Porte de Saint-Ouen,Garibaldi
+581,Rome,Villiers
+11041,Place de Clichy,Liège
+12083,Liège,Saint-Lazare
+1351,Garibaldi,Mairie de Saint-Ouen
+138,Carrefour Pleyel,Saint-Denis - Porte de Paris
+6770,Blanche,Place de Clichy
+5663,Pigalle,Blanche
+1159,Anvers,Pigalle
+1142,La Chapelle,Stalingrad
+5431,Stalingrad,Gare du Nord
+6231,Gare du Nord,Gare de l'Est
+11601,Cadet,Le Peletier
+12035,Le Peletier,Chaussée d'Antin - La Fayette
+12494,Chaussée d'Antin - La Fayette,Opéra
+11261,Opéra,Madeleine
+8856,Gare de l'Est,Jacques Bonsergent
+9700,Jacques Bonsergent,République
+28017,Rambuteau,Hôtel de Ville
+5640,Rue des Boulets,Nation
+1359,Stalingrad,Jaurès
+7891,Jaurès,Colonel Fabien
+8739,Colonel Fabien,Belleville
+4392,Couronnes,Ménilmontant
+5237,Ménilmontant,Père Lachaise
+9600,Alexandre Dumas,Avron
+2589,Télégraphe,Porte des Lilas
+761,Château d'Eau,Strasbourg - Saint-Denis
+275,Stalingrad,Louis Blanc
+9850,Louis Blanc,Château-Landon
+2037,Opéra,Pyramides
+629,Botzaris,Danube
+8333,Belleville,Goncourt
+10696,Château-Landon,Gare de l'Est
+8993,Goncourt,République
+10106,Avron,Nation
+1276,Jaurès,Stalingrad
+11487,Parmentier,République
+4319,Pont de Levallois - Bécon,Nation
+3309,Anatole France,Pont de Levallois - Bécon
+2224,Louise Michel,Anatole France
+1094,Porte de Champerret,Louise Michel
+1096,Wagram,Malesherbes
+2204,Malesherbes,Villiers
+2,Bourse,Sentier
+6,Sentier,Bourse
+623,Temple,Arts et Métiers
+500,Temple,République
+13310,Gambetta,Père Lachaise
+1116,Botzaris,Buttes Chaumont
+3423,Place des Fêtes,Jourdain
+1096,Porte de Bagnolet,Gambetta
+5,Porte de Bagnolet,Gallieni
+1197,Gallieni,Gambetta
+8,Gallieni,Porte de Bagnolet
+10402,Pelleport,Gambetta
+2051,Buttes Chaumont,Bolivar
+4373,Jourdain,Pyrénées
+9479,Porte des Lilas,Pelleport
+5365,Pyrénées,Belleville
+2222,Porte de Clignancourt,Porte des Lilas
+1120,Simplon,Porte de Clignancourt
+618,Château d'Eau,Gare de l'Est
+1621,Strasbourg - Saint-Denis,République
+1142,Étienne Marcel,Les Halles
+2261,Les Halles,Châtelet
+7793,Cité,Châtelet
+6732,Saint-Michel,Cité
+5652,Odéon,Saint-Michel
+3472,Saint-Germain-des-Prés,Odéon
+2347,Saint-Sulpice,Saint-Germain-des-Prés
+1211,Saint-Placide,Saint-Sulpice
+1107,Vavin,Raspail
+3328,Raspail,Denfert-Rochereau
+10878,Denfert-Rochereau,Saint-Jacques
+11893,Saint-Jacques,Glacière
+12894,Glacière,Corvisart
+13941,Corvisart,Place d'Italie
+19741,Place d'Italie,Nationale
+20654,Nationale,Chevaleret
+21654,Chevaleret,Quai de la Gare
+22619,Quai de la Gare,Bercy
+6725,Mouton-Duvernet,Denfert-Rochereau
+5570,Alésia,Mouton-Duvernet
+4450,Porte d'Orléans,Alésia
+3327,Mairie de Montrouge,Porte d'Orléans
+2293,Barbara,Mairie de Montrouge
+1155,Bagneux - Lucie Aubrac,Barbara
+1097,Bobigny - Pantin - Raymond Queneau,Église de Pantin
+2234,Église de Pantin,Hoche
+3358,Hoche,Porte de Pantin
+4451,Porte de Pantin,Ourcq
+5472,Ourcq,Laumière
+6503,Laumière,Jaurès
+5787,Gare d'Austerlitz,Châtelet
+661,Quai de la Rapée,Bastille
+1170,Saint-Marcel,Gare d'Austerlitz
+1121,Kléber,Boissière
+2283,Boissière,Trocadéro
+14371,Trocadéro,Iéna
+15243,Iéna,Alma - Marceau
+16131,Alma - Marceau,Franklin D. Roosevelt
+11169,Porte de Montreuil,Maraîchers
+12081,Maraîchers,Buzenval
+3451,Passy,Trocadéro
+2299,Bir-Hakeim,Passy
+1208,Dupleix,Bir-Hakeim
+2224,Pasteur,Volontaires
+3323,Volontaires,Vaugirard
+4383,Vaugirard,Convention
+5512,Convention,Porte de Versailles
+6631,Porte de Versailles,Corentin Celton
+7746,Corentin Celton,Mairie d'Issy
+8890,Mairie d'Issy,Les Courtilles
+9979,Les Courtilles,Les Agnettes
+10969,Les Agnettes,Gabriel Péri
+12042,Gabriel Péri,Mairie de Clichy
+13083,Mairie de Clichy,Porte de Clichy
+21540,Porte de Clichy,Pont Cardinet
+22425,Pont Cardinet,Saint-Lazare
+411,Garibaldi,Porte de Saint-Ouen
+1302,Porte de Saint-Ouen,Guy Môquet
+1078,Edgar Quinet,Raspail
+2286,La Courneuve - 8 Mai 1945,Nation
+1171,Fort d'Aubervilliers,La Courneuve - 8 Mai 1945
+1147,Porte de la Villette,Corentin Cariou
+2240,Corentin Cariou,Crimée
+3343,Crimée,Riquet
+4414,Riquet,Stalingrad
+260,Louis Blanc,Stalingrad
+1131,Pont Marie,Châtelet
+3220,Jussieu,Gare d'Austerlitz
+1044,Place Monge,Jussieu
+1102,Les Gobelins,Place d'Italie
+4462,Tolbiac,Place d'Italie
+3380,Maison Blanche,Tolbiac
+2261,Le Kremlin-Bicêtre,Maison Blanche
+1151,Villejuif - Léo Lagrange,Le Kremlin-Bicêtre
+1090,Villejuif - Louis Aragon,Porte d'Italie
+2166,Porte d'Italie,Porte de Choisy
+3412,Porte de Choisy,Porte d'Ivry
+4555,Porte d'Ivry,Pierre et Marie Curie
+5677,Pierre et Marie Curie,Mairie d'Ivry
+6770,Mairie d'Ivry,Louis Blanc
+3057,Bolivar,Jaurès
+1433,Danube,Place des Fêtes
+23,Balard,Lourmel
+35,Lourmel,Boucicaut
+37,Boucicaut,Félix Faure
+24,Félix Faure,Commerce
+20,Lourmel,Balard
+29,Boucicaut,Lourmel
+28,Félix Faure,Boucicaut
+15,Commerce,Félix Faure
+6673,Invalides,Concorde
+1169,Filles du Calvaire,République
+1132,Chemin Vert,Bastille
+1184,Montgallet,Daumesnil
+5440,Michel Bizot,Daumesnil
+4348,Porte Dorée,Michel Bizot
+3273,Porte de Charenton,Porte Dorée
+2156,Liberté,Porte de Charenton
+1104,Charenton - Écoles,Liberté
+1126,Pointe du Lac,Pont de Sèvres
+2263,Pont de Sèvres,Billancourt
+3380,Billancourt,Marcel Sembat
+4501,Marcel Sembat,Porte de Saint-Cloud
+5601,Porte de Saint-Cloud,Exelmans
+6731,Exelmans,Michel-Ange - Molitor
+8838,Rue de la Pompe,Trocadéro
+12952,Buzenval,Nation
+1105,Saint-Augustin,Miromesnil
+6,Église d'Auteuil,Mirabeau
+9,Mirabeau,Javel - André Citroën
+12,Javel - André Citroën,Charles Michels
+10,Mirabeau,Église d'Auteuil
+12,Javel - André Citroën,Mirabeau
+8,Charles Michels,Javel - André Citroën
+1116,Ségur,Duroc
+3336,Duroc,Saint-François-Xavier
+4511,Saint-François-Xavier,Varenne
+5580,Varenne,Invalides
+1148,Vaneau,Duroc
+1070,Mabillon,Odéon
+1109,Cardinal Lemoine,Jussieu
+6551,Mairie des Lilas,Porte des Lilas
+5529,Mairie d'Aubervilliers,Mairie des Lilas
+4438,Aimé Césaire,Mairie d'Aubervilliers
+3356,Front Populaire,Aimé Césaire
+2263,Porte de la Chapelle,Front Populaire
+1102,Marx Dormoy,Porte de la Chapelle
+1092,Abbesses,Pigalle
+2303,Saint-Georges,Pigalle
+1174,Notre-Dame-de-Lorette,Saint-Georges
+9,Solférino,Rue du Bac
+7,Rue du Bac,Solférino
+3,Rennes,Notre-Dame-des-Champs
+2,Notre-Dame-des-Champs,Rennes
+1084,Falguière,Pasteur
+4414,Brochant,Porte de Clichy
+3325,Saint-Denis - Université,Brochant
+144,Saint-Denis - Porte de Paris,Carrefour Pleyel
+1263,Carrefour Pleyel,Mairie de Saint-Ouen
+2232,Basilique de Saint-Denis,Saint-Denis - Université
+2254,Guy Môquet,La Fourche
+1132,Saint-Denis - Porte de Paris,Basilique de Saint-Denis
+3256,La Fourche,Place de Clichy
+3298,Mairie de Saint-Ouen,Saint-Ouen
+4354,Saint-Ouen,Porte de Clichy
+14,Gaîté,Pernety
+25,Pernety,Plaisance
+28,Plaisance,Porte de Vanves
+20,Porte de Vanves,Malakoff - Plateau de Vanves
+16,Pernety,Gaîté
+28,Plaisance,Pernety
+27,Porte de Vanves,Plaisance
+24,Malakoff - Plateau de Vanves,Porte de Vanves
+1129,Cour Saint-Émilion,Bercy
