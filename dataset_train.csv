@@ -1,0 +1,973 @@
+plan_metro_degradé,flux_dégradé
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                  Abbesses  Aimé Césaire  Alexandre Dumas  Alma - Marceau  \
+Abbesses               0.0           0.0              0.0             0.0   
+Aimé Césaire           0.0           0.0              0.0             0.0   
+Alexandre Dumas        0.0           0.0              0.0             0.0   
+Alma - Marceau         0.0           0.0              0.0             0.0   
+Alésia                 0.0           0.0              0.0             0.0   
+...                    ...           ...              ...             ...   
+Wagram                 0.0           0.0              0.0             0.0   
+École Militaire        0.0           0.0              0.0             0.0   
+Église d'Auteuil       0.0           0.0              0.0             0.0   
+Église de Pantin       0.0           0.0              0.0             0.0   
+Étienne Marcel         0.0           0.0              0.0             0.0   
+
+                  Alésia  Anatole France  Anvers  Argentine  Arts et Métiers  \
+Abbesses             0.0             0.0     0.0        0.0              0.0   
+Aimé Césaire         0.0             0.0     0.0        0.0              0.0   
+Alexandre Dumas      0.0             0.0     0.0        0.0              0.0   
+Alma - Marceau       0.0             0.0     0.0        0.0              0.0   
+Alésia               0.0             0.0     0.0        0.0              0.0   
+...                  ...             ...     ...        ...              ...   
+Wagram               0.0             0.0     0.0        0.0              0.0   
+École Militaire      0.0             0.0     0.0        0.0              0.0   
+Église d'Auteuil     0.0             0.0     0.0        0.0              0.0   
+Église de Pantin     0.0             0.0     0.0        0.0              0.0   
+Étienne Marcel       0.0             0.0     0.0        0.0              0.0   
+
+                     Avron  ...  Villejuif - Louis Aragon  \
+Abbesses          0.000000  ...                       0.0   
+Aimé Césaire      0.000000  ...                       0.0   
+Alexandre Dumas  -0.135417  ...                       0.0   
+Alma - Marceau    0.000000  ...                       0.0   
+Alésia            0.000000  ...                       0.0   
+...                    ...  ...                       ...   
+Wagram            0.000000  ...                       0.0   
+École Militaire   0.000000  ...                       0.0   
+Église d'Auteuil  0.000000  ...                       0.0   
+Église de Pantin  0.000000  ...                       0.0   
+Étienne Marcel    0.000000  ...                       0.0   
+
+                  Villejuif - Léo Lagrange  Villiers  Volontaires  Voltaire  \
+Abbesses                               0.0       0.0          0.0       0.0   
+Aimé Césaire                           0.0       0.0          0.0       0.0   
+Alexandre Dumas                        0.0       0.0          0.0       0.0   
+Alma - Marceau                         0.0       0.0          0.0       0.0   
+Alésia                                 0.0       0.0          0.0       0.0   
+...                                    ...       ...          ...       ...   
+Wagram                                 0.0       0.0          0.0       0.0   
+École Militaire                        0.0       0.0          0.0       0.0   
+Église d'Auteuil                       0.0       0.0          0.0       0.0   
+Église de Pantin                       0.0       0.0          0.0       0.0   
+Étienne Marcel                         0.0       0.0          0.0       0.0   
+
+                  Wagram  École Militaire  Église d'Auteuil  Église de Pantin  \
+Abbesses             0.0              0.0               0.0               0.0   
+Aimé Césaire         0.0              0.0               0.0               0.0   
+Alexandre Dumas      0.0              0.0               0.0               0.0   
+Alma - Marceau       0.0              0.0               0.0               0.0   
+Alésia               0.0              0.0               0.0               0.0   
+...                  ...              ...               ...               ...   
+Wagram               0.0              0.0               0.0               0.0   
+École Militaire      0.0              0.0               0.0               0.0   
+Église d'Auteuil     0.0              0.0               0.0               0.0   
+Église de Pantin     0.0              0.0               0.0               0.0   
+Étienne Marcel       0.0              0.0               0.0               0.0   
+
+                  Étienne Marcel  
+Abbesses                     0.0  
+Aimé Césaire                 0.0  
+Alexandre Dumas              0.0  
+Alma - Marceau               0.0  
+Alésia                       0.0  
+...                          ...  
+Wagram                       0.0  
+École Militaire              0.0  
+Église d'Auteuil             0.0  
+Église de Pantin             0.0  
+Étienne Marcel               0.0  
+
+[261 rows x 261 columns]"
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                   Boucicaut  Félix Faure  Lourmel  Bourse  Sentier  \
+Boucicaut                0.0          0.0      0.0     0.0      0.0   
+Félix Faure              0.0          0.0      0.0     0.0      0.0   
+Lourmel                  0.0          0.0      0.0     0.0      0.0   
+Bourse                   0.0          0.0      0.0     0.0      0.0   
+Sentier                  0.0          0.0      0.0     0.0      0.0   
+...                      ...          ...      ...     ...      ...   
+Olympiades               0.0          0.0      0.0     0.0      0.0   
+Grands Boulevards        0.0          0.0      0.0     0.0      0.0   
+Cambronne                0.0          0.0      0.0     0.0      0.0   
+Jules Joffrin            0.0          0.0      0.0     0.0      0.0   
+Château Rouge            0.0          0.0      0.0     0.0      0.0   
+
+                   Bir-Hakeim  Passy  Dupleix  Argentine  Porte Maillot  ...  \
+Boucicaut                 0.0    0.0      0.0        0.0            0.0  ...   
+Félix Faure               0.0    0.0      0.0        0.0            0.0  ...   
+Lourmel                   0.0    0.0      0.0        0.0            0.0  ...   
+Bourse                    0.0    0.0      0.0        0.0            0.0  ...   
+Sentier                   0.0    0.0      0.0        0.0            0.0  ...   
+...                       ...    ...      ...        ...            ...  ...   
+Olympiades                0.0    0.0      0.0        0.0            0.0  ...   
+Grands Boulevards         0.0    0.0      0.0        0.0            0.0  ...   
+Cambronne                 0.0    0.0      0.0        0.0            0.0  ...   
+Jules Joffrin             0.0    0.0      0.0        0.0            0.0  ...   
+Château Rouge             0.0    0.0      0.0        0.0            0.0  ...   
+
+                   Porte de la Villette  Porte de la Chapelle  Marx Dormoy  \
+Boucicaut                           0.0                   0.0          0.0   
+Félix Faure                         0.0                   0.0          0.0   
+Lourmel                             0.0                   0.0          0.0   
+Bourse                              0.0                   0.0          0.0   
+Sentier                             0.0                   0.0          0.0   
+...                                 ...                   ...          ...   
+Olympiades                          0.0                   0.0          0.0   
+Grands Boulevards                   0.0                   0.0          0.0   
+Cambronne                           0.0                   0.0          0.0   
+Jules Joffrin                       0.0                   0.0          0.0   
+Château Rouge                       0.0                   0.0          0.0   
+
+                   Maisons-Alfort - Stade  École Militaire  Olympiades  \
+Boucicaut                             0.0              0.0         0.0   
+Félix Faure                           0.0              0.0         0.0   
+Lourmel                               0.0              0.0         0.0   
+Bourse                                0.0              0.0         0.0   
+Sentier                               0.0              0.0         0.0   
+...                                   ...              ...         ...   
+Olympiades                            0.0              0.0         0.0   
+Grands Boulevards                     0.0              0.0         0.0   
+Cambronne                             0.0              0.0         0.0   
+Jules Joffrin                         0.0              0.0         0.0   
+Château Rouge                         0.0              0.0         0.0   
+
+                   Grands Boulevards  Cambronne  Jules Joffrin  Château Rouge  
+Boucicaut                        0.0        0.0            0.0            0.0  
+Félix Faure                      0.0        0.0            0.0            0.0  
+Lourmel                          0.0        0.0            0.0            0.0  
+Bourse                           0.0        0.0            0.0            0.0  
+Sentier                          0.0        0.0            0.0            0.0  
+...                              ...        ...            ...            ...  
+Olympiades                       0.0        0.0            0.0            0.0  
+Grands Boulevards                0.0        0.0            0.0            0.0  
+Cambronne                        0.0        0.0            0.0            0.0  
+Jules Joffrin                    0.0        0.0            0.0            0.0  
+Château Rouge                    0.0        0.0            0.0            0.0  
+
+[261 rows x 261 columns]"
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                   Boucicaut  Félix Faure  Lourmel  Bourse  Sentier  \
+Boucicaut                0.0          0.0      0.0     0.0      0.0   
+Félix Faure              0.0          0.0      0.0     0.0      0.0   
+Lourmel                  0.0          0.0      0.0     0.0      0.0   
+Bourse                   0.0          0.0      0.0     0.0      0.0   
+Sentier                  0.0          0.0      0.0     0.0      0.0   
+...                      ...          ...      ...     ...      ...   
+Olympiades               0.0          0.0      0.0     0.0      0.0   
+Grands Boulevards        0.0          0.0      0.0     0.0      0.0   
+Cambronne                0.0          0.0      0.0     0.0      0.0   
+Jules Joffrin            0.0          0.0      0.0     0.0      0.0   
+Château Rouge            0.0          0.0      0.0     0.0      0.0   
+
+                   Bir-Hakeim  Passy  Dupleix  Argentine  Porte Maillot  ...  \
+Boucicaut                 0.0    0.0      0.0        0.0            0.0  ...   
+Félix Faure               0.0    0.0      0.0        0.0            0.0  ...   
+Lourmel                   0.0    0.0      0.0        0.0            0.0  ...   
+Bourse                    0.0    0.0      0.0        0.0            0.0  ...   
+Sentier                   0.0    0.0      0.0        0.0            0.0  ...   
+...                       ...    ...      ...        ...            ...  ...   
+Olympiades                0.0    0.0      0.0        0.0            0.0  ...   
+Grands Boulevards         0.0    0.0      0.0        0.0            0.0  ...   
+Cambronne                 0.0    0.0      0.0        0.0            0.0  ...   
+Jules Joffrin             0.0    0.0      0.0        0.0            0.0  ...   
+Château Rouge             0.0    0.0      0.0        0.0            0.0  ...   
+
+                   Porte de la Villette  Porte de la Chapelle  Marx Dormoy  \
+Boucicaut                           0.0                   0.0          0.0   
+Félix Faure                         0.0                   0.0          0.0   
+Lourmel                             0.0                   0.0          0.0   
+Bourse                              0.0                   0.0          0.0   
+Sentier                             0.0                   0.0          0.0   
+...                                 ...                   ...          ...   
+Olympiades                          0.0                   0.0          0.0   
+Grands Boulevards                   0.0                   0.0          0.0   
+Cambronne                           0.0                   0.0          0.0   
+Jules Joffrin                       0.0                   0.0          0.0   
+Château Rouge                       0.0                   0.0          0.0   
+
+                   Maisons-Alfort - Stade  École Militaire  Olympiades  \
+Boucicaut                             0.0              0.0         0.0   
+Félix Faure                           0.0              0.0         0.0   
+Lourmel                               0.0              0.0         0.0   
+Bourse                                0.0              0.0         0.0   
+Sentier                               0.0              0.0         0.0   
+...                                   ...              ...         ...   
+Olympiades                            0.0              0.0         0.0   
+Grands Boulevards                     0.0              0.0         0.0   
+Cambronne                             0.0              0.0         0.0   
+Jules Joffrin                         0.0              0.0         0.0   
+Château Rouge                         0.0              0.0         0.0   
+
+                   Grands Boulevards  Cambronne  Jules Joffrin  Château Rouge  
+Boucicaut                        0.0        0.0            0.0            0.0  
+Félix Faure                      0.0        0.0            0.0            0.0  
+Lourmel                          0.0        0.0            0.0            0.0  
+Bourse                           0.0        0.0            0.0            0.0  
+Sentier                          0.0        0.0            0.0            0.0  
+...                              ...        ...            ...            ...  
+Olympiades                       0.0        0.0            0.0            0.0  
+Grands Boulevards                0.0        0.0            0.0            0.0  
+Cambronne                        0.0        0.0            0.0            0.0  
+Jules Joffrin                    0.0        0.0            0.0            0.0  
+Château Rouge                    0.0        0.0            0.0            0.0  
+
+[261 rows x 261 columns]"
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                   Boucicaut  Félix Faure  Lourmel  Bourse  Sentier  \
+Boucicaut                0.0          0.0      0.0     0.0      0.0   
+Félix Faure              0.0          0.0      0.0     0.0      0.0   
+Lourmel                  0.0          0.0      0.0     0.0      0.0   
+Bourse                   0.0          0.0      0.0     0.0      0.0   
+Sentier                  0.0          0.0      0.0     0.0      0.0   
+...                      ...          ...      ...     ...      ...   
+Olympiades               0.0          0.0      0.0     0.0      0.0   
+Grands Boulevards        0.0          0.0      0.0     0.0      0.0   
+Cambronne                0.0          0.0      0.0     0.0      0.0   
+Jules Joffrin            0.0          0.0      0.0     0.0      0.0   
+Château Rouge            0.0          0.0      0.0     0.0      0.0   
+
+                   Bir-Hakeim  Passy  Dupleix  Argentine  Porte Maillot  ...  \
+Boucicaut                 0.0    0.0      0.0        0.0            0.0  ...   
+Félix Faure               0.0    0.0      0.0        0.0            0.0  ...   
+Lourmel                   0.0    0.0      0.0        0.0            0.0  ...   
+Bourse                    0.0    0.0      0.0        0.0            0.0  ...   
+Sentier                   0.0    0.0      0.0        0.0            0.0  ...   
+...                       ...    ...      ...        ...            ...  ...   
+Olympiades                0.0    0.0      0.0        0.0            0.0  ...   
+Grands Boulevards         0.0    0.0      0.0        0.0            0.0  ...   
+Cambronne                 0.0    0.0      0.0        0.0            0.0  ...   
+Jules Joffrin             0.0    0.0      0.0        0.0            0.0  ...   
+Château Rouge             0.0    0.0      0.0        0.0            0.0  ...   
+
+                   Porte de la Villette  Porte de la Chapelle  Marx Dormoy  \
+Boucicaut                           0.0                   0.0          0.0   
+Félix Faure                         0.0                   0.0          0.0   
+Lourmel                             0.0                   0.0          0.0   
+Bourse                              0.0                   0.0          0.0   
+Sentier                             0.0                   0.0          0.0   
+...                                 ...                   ...          ...   
+Olympiades                          0.0                   0.0          0.0   
+Grands Boulevards                   0.0                   0.0          0.0   
+Cambronne                           0.0                   0.0          0.0   
+Jules Joffrin                       0.0                   0.0          0.0   
+Château Rouge                       0.0                   0.0          0.0   
+
+                   Maisons-Alfort - Stade  École Militaire  Olympiades  \
+Boucicaut                             0.0              0.0         0.0   
+Félix Faure                           0.0              0.0         0.0   
+Lourmel                               0.0              0.0         0.0   
+Bourse                                0.0              0.0         0.0   
+Sentier                               0.0              0.0         0.0   
+...                                   ...              ...         ...   
+Olympiades                            0.0              0.0         0.0   
+Grands Boulevards                     0.0              0.0         0.0   
+Cambronne                             0.0              0.0         0.0   
+Jules Joffrin                         0.0              0.0         0.0   
+Château Rouge                         0.0              0.0         0.0   
+
+                   Grands Boulevards  Cambronne  Jules Joffrin  Château Rouge  
+Boucicaut                        0.0        0.0            0.0            0.0  
+Félix Faure                      0.0        0.0            0.0            0.0  
+Lourmel                          0.0        0.0            0.0            0.0  
+Bourse                           0.0        0.0            0.0            0.0  
+Sentier                          0.0        0.0            0.0            0.0  
+...                              ...        ...            ...            ...  
+Olympiades                       0.0        0.0            0.0            0.0  
+Grands Boulevards                0.0        0.0            0.0            0.0  
+Cambronne                        0.0        0.0            0.0            0.0  
+Jules Joffrin                    0.0        0.0            0.0            0.0  
+Château Rouge                    0.0        0.0            0.0            0.0  
+
+[261 rows x 261 columns]"
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                   Boucicaut  Félix Faure  Lourmel  Bourse  Sentier  \
+Boucicaut                0.0          0.0      0.0     0.0      0.0   
+Félix Faure              0.0          0.0      0.0     0.0      0.0   
+Lourmel                  0.0          0.0      0.0     0.0      0.0   
+Bourse                   0.0          0.0      0.0     0.0      0.0   
+Sentier                  0.0          0.0      0.0     0.0      0.0   
+...                      ...          ...      ...     ...      ...   
+Olympiades               0.0          0.0      0.0     0.0      0.0   
+Grands Boulevards        0.0          0.0      0.0     0.0      0.0   
+Cambronne                0.0          0.0      0.0     0.0      0.0   
+Jules Joffrin            0.0          0.0      0.0     0.0      0.0   
+Château Rouge            0.0          0.0      0.0     0.0      0.0   
+
+                   Bir-Hakeim  Passy  Dupleix  Argentine  Porte Maillot  ...  \
+Boucicaut                 0.0    0.0      0.0        0.0            0.0  ...   
+Félix Faure               0.0    0.0      0.0        0.0            0.0  ...   
+Lourmel                   0.0    0.0      0.0        0.0            0.0  ...   
+Bourse                    0.0    0.0      0.0        0.0            0.0  ...   
+Sentier                   0.0    0.0      0.0        0.0            0.0  ...   
+...                       ...    ...      ...        ...            ...  ...   
+Olympiades                0.0    0.0      0.0        0.0            0.0  ...   
+Grands Boulevards         0.0    0.0      0.0        0.0            0.0  ...   
+Cambronne                 0.0    0.0      0.0        0.0            0.0  ...   
+Jules Joffrin             0.0    0.0      0.0        0.0            0.0  ...   
+Château Rouge             0.0    0.0      0.0        0.0            0.0  ...   
+
+                   Porte de la Villette  Porte de la Chapelle  Marx Dormoy  \
+Boucicaut                           0.0                   0.0          0.0   
+Félix Faure                         0.0                   0.0          0.0   
+Lourmel                             0.0                   0.0          0.0   
+Bourse                              0.0                   0.0          0.0   
+Sentier                             0.0                   0.0          0.0   
+...                                 ...                   ...          ...   
+Olympiades                          0.0                   0.0          0.0   
+Grands Boulevards                   0.0                   0.0          0.0   
+Cambronne                           0.0                   0.0          0.0   
+Jules Joffrin                       0.0                   0.0          0.0   
+Château Rouge                       0.0                   0.0          0.0   
+
+                   Maisons-Alfort - Stade  École Militaire  Olympiades  \
+Boucicaut                             0.0              0.0         0.0   
+Félix Faure                           0.0              0.0         0.0   
+Lourmel                               0.0              0.0         0.0   
+Bourse                                0.0              0.0         0.0   
+Sentier                               0.0              0.0         0.0   
+...                                   ...              ...         ...   
+Olympiades                            0.0              0.0         0.0   
+Grands Boulevards                     0.0              0.0         0.0   
+Cambronne                             0.0              0.0         0.0   
+Jules Joffrin                         0.0              0.0         0.0   
+Château Rouge                         0.0              0.0         0.0   
+
+                   Grands Boulevards  Cambronne  Jules Joffrin  Château Rouge  
+Boucicaut                        0.0        0.0            0.0            0.0  
+Félix Faure                      0.0        0.0            0.0            0.0  
+Lourmel                          0.0        0.0            0.0            0.0  
+Bourse                           0.0        0.0            0.0            0.0  
+Sentier                          0.0        0.0            0.0            0.0  
+...                              ...        ...            ...            ...  
+Olympiades                       0.0        0.0            0.0            0.0  
+Grands Boulevards                0.0        0.0            0.0            0.0  
+Cambronne                        0.0        0.0            0.0            0.0  
+Jules Joffrin                    0.0        0.0            0.0            0.0  
+Château Rouge                    0.0        0.0            0.0            0.0  
+
+[261 rows x 261 columns]"
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                  Abbesses  Aimé Césaire  Alexandre Dumas  Alma - Marceau  \
+Abbesses               0.0           0.0              0.0             0.0   
+Aimé Césaire           0.0           0.0              0.0             0.0   
+Alexandre Dumas        0.0           0.0              0.0             0.0   
+Alma - Marceau         0.0           0.0              0.0             0.0   
+Alésia                 0.0           0.0              0.0             0.0   
+...                    ...           ...              ...             ...   
+Wagram                 0.0           0.0              0.0             0.0   
+École Militaire        0.0           0.0              0.0             0.0   
+Église d'Auteuil       0.0           0.0              0.0             0.0   
+Église de Pantin       0.0           0.0              0.0             0.0   
+Étienne Marcel         0.0           0.0              0.0             0.0   
+
+                  Alésia  Anatole France  Anvers  Argentine  Arts et Métiers  \
+Abbesses             0.0             0.0     0.0        0.0              0.0   
+Aimé Césaire         0.0             0.0     0.0        0.0              0.0   
+Alexandre Dumas      0.0             0.0     0.0        0.0              0.0   
+Alma - Marceau       0.0             0.0     0.0        0.0              0.0   
+Alésia               0.0             0.0     0.0        0.0              0.0   
+...                  ...             ...     ...        ...              ...   
+Wagram               0.0             0.0     0.0        0.0              0.0   
+École Militaire      0.0             0.0     0.0        0.0              0.0   
+Église d'Auteuil     0.0             0.0     0.0        0.0              0.0   
+Église de Pantin     0.0             0.0     0.0        0.0              0.0   
+Étienne Marcel       0.0             0.0     0.0        0.0              0.0   
+
+                  Avron  ...  Villejuif - Louis Aragon  \
+Abbesses            0.0  ...                       0.0   
+Aimé Césaire        0.0  ...                       0.0   
+Alexandre Dumas     0.0  ...                       0.0   
+Alma - Marceau      0.0  ...                       0.0   
+Alésia              0.0  ...                       0.0   
+...                 ...  ...                       ...   
+Wagram              0.0  ...                       0.0   
+École Militaire     0.0  ...                       0.0   
+Église d'Auteuil    0.0  ...                       0.0   
+Église de Pantin    0.0  ...                       0.0   
+Étienne Marcel      0.0  ...                       0.0   
+
+                  Villejuif - Léo Lagrange  Villiers  Volontaires  Voltaire  \
+Abbesses                               0.0       0.0          0.0       0.0   
+Aimé Césaire                           0.0       0.0          0.0       0.0   
+Alexandre Dumas                        0.0       0.0          0.0       0.0   
+Alma - Marceau                         0.0       0.0          0.0       0.0   
+Alésia                                 0.0       0.0          0.0       0.0   
+...                                    ...       ...          ...       ...   
+Wagram                                 0.0       0.0          0.0       0.0   
+École Militaire                        0.0       0.0          0.0       0.0   
+Église d'Auteuil                       0.0       0.0          0.0       0.0   
+Église de Pantin                       0.0       0.0          0.0       0.0   
+Étienne Marcel                         0.0       0.0          0.0       0.0   
+
+                  Wagram  École Militaire  Église d'Auteuil  Église de Pantin  \
+Abbesses             0.0              0.0               0.0               0.0   
+Aimé Césaire         0.0              0.0               0.0               0.0   
+Alexandre Dumas      0.0              0.0               0.0               0.0   
+Alma - Marceau       0.0              0.0               0.0               0.0   
+Alésia               0.0              0.0               0.0               0.0   
+...                  ...              ...               ...               ...   
+Wagram               0.0              0.0               0.0               0.0   
+École Militaire      0.0              0.0               0.0               0.0   
+Église d'Auteuil     0.0              0.0               0.0               0.0   
+Église de Pantin     0.0              0.0               0.0               0.0   
+Étienne Marcel       0.0              0.0               0.0               0.0   
+
+                  Étienne Marcel  
+Abbesses                     0.0  
+Aimé Césaire                 0.0  
+Alexandre Dumas              0.0  
+Alma - Marceau               0.0  
+Alésia                       0.0  
+...                          ...  
+Wagram                       0.0  
+École Militaire              0.0  
+Église d'Auteuil             0.0  
+Église de Pantin             0.0  
+Étienne Marcel               0.0  
+
+[261 rows x 261 columns]"
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                   Boucicaut  Félix Faure  Lourmel  Bourse  Sentier  \
+Boucicaut                0.0          0.0      0.0     0.0      0.0   
+Félix Faure              0.0          0.0      0.0     0.0      0.0   
+Lourmel                  0.0          0.0      0.0     0.0      0.0   
+Bourse                   0.0          0.0      0.0     0.0      0.0   
+Sentier                  0.0          0.0      0.0     0.0      0.0   
+...                      ...          ...      ...     ...      ...   
+Olympiades               0.0          0.0      0.0     0.0      0.0   
+Grands Boulevards        0.0          0.0      0.0     0.0      0.0   
+Cambronne                0.0          0.0      0.0     0.0      0.0   
+Jules Joffrin            0.0          0.0      0.0     0.0      0.0   
+Château Rouge            0.0          0.0      0.0     0.0      0.0   
+
+                   Bir-Hakeim  Passy  Dupleix  Argentine  Porte Maillot  ...  \
+Boucicaut                 0.0    0.0      0.0        0.0            0.0  ...   
+Félix Faure               0.0    0.0      0.0        0.0            0.0  ...   
+Lourmel                   0.0    0.0      0.0        0.0            0.0  ...   
+Bourse                    0.0    0.0      0.0        0.0            0.0  ...   
+Sentier                   0.0    0.0      0.0        0.0            0.0  ...   
+...                       ...    ...      ...        ...            ...  ...   
+Olympiades                0.0    0.0      0.0        0.0            0.0  ...   
+Grands Boulevards         0.0    0.0      0.0        0.0            0.0  ...   
+Cambronne                 0.0    0.0      0.0        0.0            0.0  ...   
+Jules Joffrin             0.0    0.0      0.0        0.0            0.0  ...   
+Château Rouge             0.0    0.0      0.0        0.0            0.0  ...   
+
+                   Porte de la Villette  Porte de la Chapelle  Marx Dormoy  \
+Boucicaut                           0.0                   0.0          0.0   
+Félix Faure                         0.0                   0.0          0.0   
+Lourmel                             0.0                   0.0          0.0   
+Bourse                              0.0                   0.0          0.0   
+Sentier                             0.0                   0.0          0.0   
+...                                 ...                   ...          ...   
+Olympiades                          0.0                   0.0          0.0   
+Grands Boulevards                   0.0                   0.0          0.0   
+Cambronne                           0.0                   0.0          0.0   
+Jules Joffrin                       0.0                   0.0          0.0   
+Château Rouge                       0.0                   0.0          0.0   
+
+                   Maisons-Alfort - Stade  École Militaire  Olympiades  \
+Boucicaut                             0.0              0.0         0.0   
+Félix Faure                           0.0              0.0         0.0   
+Lourmel                               0.0              0.0         0.0   
+Bourse                                0.0              0.0         0.0   
+Sentier                               0.0              0.0         0.0   
+...                                   ...              ...         ...   
+Olympiades                            0.0              0.0         0.0   
+Grands Boulevards                     0.0              0.0         0.0   
+Cambronne                             0.0              0.0         0.0   
+Jules Joffrin                         0.0              0.0         0.0   
+Château Rouge                         0.0              0.0         0.0   
+
+                   Grands Boulevards  Cambronne  Jules Joffrin  Château Rouge  
+Boucicaut                        0.0        0.0            0.0            0.0  
+Félix Faure                      0.0        0.0            0.0            0.0  
+Lourmel                          0.0        0.0            0.0            0.0  
+Bourse                           0.0        0.0            0.0            0.0  
+Sentier                          0.0        0.0            0.0            0.0  
+...                              ...        ...            ...            ...  
+Olympiades                       0.0        0.0            0.0            0.0  
+Grands Boulevards                0.0        0.0            0.0            0.0  
+Cambronne                        0.0        0.0            0.0            0.0  
+Jules Joffrin                    0.0        0.0            0.0            0.0  
+Château Rouge                    0.0        0.0            0.0            0.0  
+
+[261 rows x 261 columns]"
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                   Boucicaut  Félix Faure  Lourmel  Bourse  Sentier  \
+Boucicaut                0.0          0.0      0.0     0.0      0.0   
+Félix Faure              0.0          0.0      0.0     0.0      0.0   
+Lourmel                  0.0          0.0      0.0     0.0      0.0   
+Bourse                   0.0          0.0      0.0     0.0      0.0   
+Sentier                  0.0          0.0      0.0     0.0      0.0   
+...                      ...          ...      ...     ...      ...   
+Olympiades               0.0          0.0      0.0     0.0      0.0   
+Grands Boulevards        0.0          0.0      0.0     0.0      0.0   
+Cambronne                0.0          0.0      0.0     0.0      0.0   
+Jules Joffrin            0.0          0.0      0.0     0.0      0.0   
+Château Rouge            0.0          0.0      0.0     0.0      0.0   
+
+                   Bir-Hakeim  Passy  Dupleix  Argentine  Porte Maillot  ...  \
+Boucicaut                 0.0    0.0      0.0        0.0            0.0  ...   
+Félix Faure               0.0    0.0      0.0        0.0            0.0  ...   
+Lourmel                   0.0    0.0      0.0        0.0            0.0  ...   
+Bourse                    0.0    0.0      0.0        0.0            0.0  ...   
+Sentier                   0.0    0.0      0.0        0.0            0.0  ...   
+...                       ...    ...      ...        ...            ...  ...   
+Olympiades                0.0    0.0      0.0        0.0            0.0  ...   
+Grands Boulevards         0.0    0.0      0.0        0.0            0.0  ...   
+Cambronne                 0.0    0.0      0.0        0.0            0.0  ...   
+Jules Joffrin             0.0    0.0      0.0        0.0            0.0  ...   
+Château Rouge             0.0    0.0      0.0        0.0            0.0  ...   
+
+                   Porte de la Villette  Porte de la Chapelle  Marx Dormoy  \
+Boucicaut                           0.0                   0.0          0.0   
+Félix Faure                         0.0                   0.0          0.0   
+Lourmel                             0.0                   0.0          0.0   
+Bourse                              0.0                   0.0          0.0   
+Sentier                             0.0                   0.0          0.0   
+...                                 ...                   ...          ...   
+Olympiades                          0.0                   0.0          0.0   
+Grands Boulevards                   0.0                   0.0          0.0   
+Cambronne                           0.0                   0.0          0.0   
+Jules Joffrin                       0.0                   0.0          0.0   
+Château Rouge                       0.0                   0.0          0.0   
+
+                   Maisons-Alfort - Stade  École Militaire  Olympiades  \
+Boucicaut                             0.0              0.0         0.0   
+Félix Faure                           0.0              0.0         0.0   
+Lourmel                               0.0              0.0         0.0   
+Bourse                                0.0              0.0         0.0   
+Sentier                               0.0              0.0         0.0   
+...                                   ...              ...         ...   
+Olympiades                            0.0              0.0         0.0   
+Grands Boulevards                     0.0              0.0         0.0   
+Cambronne                             0.0              0.0         0.0   
+Jules Joffrin                         0.0              0.0         0.0   
+Château Rouge                         0.0              0.0         0.0   
+
+                   Grands Boulevards  Cambronne  Jules Joffrin  Château Rouge  
+Boucicaut                        0.0        0.0            0.0            0.0  
+Félix Faure                      0.0        0.0            0.0            0.0  
+Lourmel                          0.0        0.0            0.0            0.0  
+Bourse                           0.0        0.0            0.0            0.0  
+Sentier                          0.0        0.0            0.0            0.0  
+...                              ...        ...            ...            ...  
+Olympiades                       0.0        0.0            0.0            0.0  
+Grands Boulevards                0.0        0.0            0.0            0.0  
+Cambronne                        0.0        0.0            0.0            0.0  
+Jules Joffrin                    0.0        0.0            0.0            0.0  
+Château Rouge                    0.0        0.0            0.0            0.0  
+
+[261 rows x 261 columns]"
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                  Abbesses  Aimé Césaire  Alexandre Dumas  Alma - Marceau  \
+Abbesses               0.0           0.0              0.0             0.0   
+Aimé Césaire           0.0           0.0              0.0             0.0   
+Alexandre Dumas        0.0           0.0              0.0             0.0   
+Alma - Marceau         0.0           0.0              0.0             0.0   
+Alésia                 0.0           0.0              0.0             0.0   
+...                    ...           ...              ...             ...   
+Wagram                 0.0           0.0              0.0             0.0   
+École Militaire        0.0           0.0              0.0             0.0   
+Église d'Auteuil       0.0           0.0              0.0             0.0   
+Église de Pantin       0.0           0.0              0.0             0.0   
+Étienne Marcel         0.0           0.0              0.0             0.0   
+
+                  Alésia  Anatole France  Anvers  Argentine  Arts et Métiers  \
+Abbesses             0.0             0.0     0.0        0.0              0.0   
+Aimé Césaire         0.0             0.0     0.0        0.0              0.0   
+Alexandre Dumas      0.0             0.0     0.0        0.0              0.0   
+Alma - Marceau       0.0             0.0     0.0        0.0              0.0   
+Alésia               0.0             0.0     0.0        0.0              0.0   
+...                  ...             ...     ...        ...              ...   
+Wagram               0.0             0.0     0.0        0.0              0.0   
+École Militaire      0.0             0.0     0.0        0.0              0.0   
+Église d'Auteuil     0.0             0.0     0.0        0.0              0.0   
+Église de Pantin     0.0             0.0     0.0        0.0              0.0   
+Étienne Marcel       0.0             0.0     0.0        0.0              0.0   
+
+                    Avron  ...  Villejuif - Louis Aragon  \
+Abbesses          0.00000  ...                       0.0   
+Aimé Césaire      0.00000  ...                       0.0   
+Alexandre Dumas  -1.59375  ...                       0.0   
+Alma - Marceau    0.00000  ...                       0.0   
+Alésia            0.00000  ...                       0.0   
+...                   ...  ...                       ...   
+Wagram            0.00000  ...                       0.0   
+École Militaire   0.00000  ...                       0.0   
+Église d'Auteuil  0.00000  ...                       0.0   
+Église de Pantin  0.00000  ...                       0.0   
+Étienne Marcel    0.00000  ...                       0.0   
+
+                  Villejuif - Léo Lagrange  Villiers  Volontaires  Voltaire  \
+Abbesses                               0.0       0.0          0.0       0.0   
+Aimé Césaire                           0.0       0.0          0.0       0.0   
+Alexandre Dumas                        0.0       0.0          0.0       0.0   
+Alma - Marceau                         0.0       0.0          0.0       0.0   
+Alésia                                 0.0       0.0          0.0       0.0   
+...                                    ...       ...          ...       ...   
+Wagram                                 0.0       0.0          0.0       0.0   
+École Militaire                        0.0       0.0          0.0       0.0   
+Église d'Auteuil                       0.0       0.0          0.0       0.0   
+Église de Pantin                       0.0       0.0          0.0       0.0   
+Étienne Marcel                         0.0       0.0          0.0       0.0   
+
+                  Wagram  École Militaire  Église d'Auteuil  Église de Pantin  \
+Abbesses             0.0              0.0               0.0               0.0   
+Aimé Césaire         0.0              0.0               0.0               0.0   
+Alexandre Dumas      0.0              0.0               0.0               0.0   
+Alma - Marceau       0.0              0.0               0.0               0.0   
+Alésia               0.0              0.0               0.0               0.0   
+...                  ...              ...               ...               ...   
+Wagram               0.0              0.0               0.0               0.0   
+École Militaire      0.0              0.0               0.0               0.0   
+Église d'Auteuil     0.0              0.0               0.0               0.0   
+Église de Pantin     0.0              0.0               0.0               0.0   
+Étienne Marcel       0.0              0.0               0.0               0.0   
+
+                  Étienne Marcel  
+Abbesses                     0.0  
+Aimé Césaire                 0.0  
+Alexandre Dumas              0.0  
+Alma - Marceau               0.0  
+Alésia                       0.0  
+...                          ...  
+Wagram                       0.0  
+École Militaire              0.0  
+Église d'Auteuil             0.0  
+Église de Pantin             0.0  
+Étienne Marcel               0.0  
+
+[261 rows x 261 columns]"
+"     de Ligne                   de Station vers Ligne  \
+0           1   Charles de Gaulle - Étoile          2   
+1           1   Charles de Gaulle - Étoile          6   
+2           1        Franklin D. Roosevelt          9   
+3           1  Champs-Élysées - Clemenceau         13   
+4           1                     Concorde          8   
+...       ...                          ...        ...   
+1004       14                 Saint-Lazare         14   
+1005       14                    Madeleine         14   
+1006       14                    Pyramides         14   
+1007       14                     Châtelet         14   
+1008       14                 Gare de Lyon         14   
+
+                     vers Station  
+0      Charles de Gaulle - Étoile  
+1      Charles de Gaulle - Étoile  
+2           Franklin D. Roosevelt  
+3     Champs-Élysées - Clemenceau  
+4                        Concorde  
+...                           ...  
+1004                    Madeleine  
+1005                    Pyramides  
+1006                     Châtelet  
+1007                 Gare de Lyon  
+1008                        Bercy  
+
+[1009 rows x 4 columns]","                  Abbesses  Aimé Césaire  Alexandre Dumas  Alma - Marceau  \
+Abbesses               0.0           0.0              0.0             0.0   
+Aimé Césaire           0.0           0.0              0.0             0.0   
+Alexandre Dumas        0.0           0.0              0.0             0.0   
+Alma - Marceau         0.0           0.0              0.0             0.0   
+Alésia                 0.0           0.0              0.0             0.0   
+...                    ...           ...              ...             ...   
+Wagram                 0.0           0.0              0.0             0.0   
+École Militaire        0.0           0.0              0.0             0.0   
+Église d'Auteuil       0.0           0.0              0.0             0.0   
+Église de Pantin       0.0           0.0              0.0             0.0   
+Étienne Marcel         0.0           0.0              0.0             0.0   
+
+                  Alésia  Anatole France  Anvers  Argentine  Arts et Métiers  \
+Abbesses             0.0             0.0     0.0        0.0              0.0   
+Aimé Césaire         0.0             0.0     0.0        0.0              0.0   
+Alexandre Dumas      0.0             0.0     0.0        0.0              0.0   
+Alma - Marceau       0.0             0.0     0.0        0.0              0.0   
+Alésia               0.0             0.0     0.0        0.0              0.0   
+...                  ...             ...     ...        ...              ...   
+Wagram               0.0             0.0     0.0        0.0              0.0   
+École Militaire      0.0             0.0     0.0        0.0              0.0   
+Église d'Auteuil     0.0             0.0     0.0        0.0              0.0   
+Église de Pantin     0.0             0.0     0.0        0.0              0.0   
+Étienne Marcel       0.0             0.0     0.0        0.0              0.0   
+
+                   Avron  ...  Villejuif - Louis Aragon  \
+Abbesses          0.0000  ...                       0.0   
+Aimé Césaire      0.0000  ...                       0.0   
+Alexandre Dumas   8.5625  ...                       0.0   
+Alma - Marceau    0.0000  ...                       0.0   
+Alésia            0.0000  ...                       0.0   
+...                  ...  ...                       ...   
+Wagram            0.0000  ...                       0.0   
+École Militaire   0.0000  ...                       0.0   
+Église d'Auteuil  0.0000  ...                       0.0   
+Église de Pantin  0.0000  ...                       0.0   
+Étienne Marcel    0.0000  ...                       0.0   
+
+                  Villejuif - Léo Lagrange  Villiers  Volontaires  Voltaire  \
+Abbesses                               0.0       0.0          0.0       0.0   
+Aimé Césaire                           0.0       0.0          0.0       0.0   
+Alexandre Dumas                        0.0       0.0          0.0       0.0   
+Alma - Marceau                         0.0       0.0          0.0       0.0   
+Alésia                                 0.0       0.0          0.0       0.0   
+...                                    ...       ...          ...       ...   
+Wagram                                 0.0       0.0          0.0       0.0   
+École Militaire                        0.0       0.0          0.0       0.0   
+Église d'Auteuil                       0.0       0.0          0.0       0.0   
+Église de Pantin                       0.0       0.0          0.0       0.0   
+Étienne Marcel                         0.0       0.0          0.0       0.0   
+
+                  Wagram  École Militaire  Église d'Auteuil  Église de Pantin  \
+Abbesses             0.0              0.0               0.0               0.0   
+Aimé Césaire         0.0              0.0               0.0               0.0   
+Alexandre Dumas      0.0              0.0               0.0               0.0   
+Alma - Marceau       0.0              0.0               0.0               0.0   
+Alésia               0.0              0.0               0.0               0.0   
+...                  ...              ...               ...               ...   
+Wagram               0.0              0.0               0.0               0.0   
+École Militaire      0.0              0.0               0.0               0.0   
+Église d'Auteuil     0.0              0.0               0.0               0.0   
+Église de Pantin     0.0              0.0               0.0               0.0   
+Étienne Marcel       0.0              0.0               0.0               0.0   
+
+                  Étienne Marcel  
+Abbesses                     0.0  
+Aimé Césaire                 0.0  
+Alexandre Dumas              0.0  
+Alma - Marceau               0.0  
+Alésia                       0.0  
+...                          ...  
+Wagram                       0.0  
+École Militaire              0.0  
+Église d'Auteuil             0.0  
+Église de Pantin             0.0  
+Étienne Marcel               0.0  
+
+[261 rows x 261 columns]"
